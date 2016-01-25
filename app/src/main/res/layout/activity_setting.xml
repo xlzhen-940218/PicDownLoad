@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:text="@string/open_many"
+        android:id="@+id/openMany"
+        tools:targetApi="ice_cream_sandwich" />
+    <EditText
+        android:id="@+id/editText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/modifySave"
+        android:hint="PicDownload(只允许输入中英文，不可填写符号)"
+        android:layout_below="@+id/openMany"
+        android:textSize="12sp"/>
+    <Button
+        android:id="@+id/modifySave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/openMany"
+        android:text="更改保存路径"/>
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">图片下载器</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="communicate">社交</string>
+    <string name="shareme">分享我给朋友</string>
+    <string name="search_pic">图片搜索</string>
+    <string name="down_admini">下载管理器</string>
+    <string name="app_author">熊龙镇</string>
+    <string name="action_disclaimers">免责申明</string>
+    <string name="disclaimers_details">本APP仅供技术探讨之用，请在下载后24小时内删除，切勿商用，带来任何版权纠纷本人概不负责!</string>
+    <string name="prompt_ok">好的，我知道了!</string>
+    <string name="open_many">开启抓取套图模式</string>
+    <string name="edit_hint">输入网页地址后按下键盘的搜索键即可!</string>
+</resources>

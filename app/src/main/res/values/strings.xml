@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PicDownLoad</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="communicate">Communicate</string>
+    <string name="shareme">Share Me To Friend</string>
+    <string name="search_pic">Search Picture</string>
+    <string name="down_admini">Download Administration</string>
+    <string name="app_author">xlzhen</string>
+    <string name="action_disclaimers">Disclaimer of liability</string>
+    <string name="disclaimers_details">This APP is for technical purposes only, please delete within 24 hours after download, do not use commercial, bring any copyright disputes I will not be responsible for!</string>
+    <string name="prompt_ok">Okay，i know</string>
+
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ptr_loading">Loading</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+    <string name="open_many">Open crawl mode sets of plans</string>
+    <string name="edit_hint">Enter the web address, press the keyboard to the search key!</string>
+</resources>

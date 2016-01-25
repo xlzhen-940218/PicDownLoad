@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@mipmap/ic_search_black_48dp"
+            android:title="@string/search_pic" />
+        <item
+            android:id="@+id/nav_down"
+            android:icon="@mipmap/ic_vertical_align_bottom_black_48dp"
+            android:title="@string/down_admini" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/shareme" />
+        </menu>
+    </item>
+
+</menu>

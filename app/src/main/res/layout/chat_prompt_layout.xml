@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/chat_prompt_bg_style">
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="小编提醒"
+        android:textColor="@color/chat_prompt_title_color"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+    <TextView
+        android:id="@+id/contentTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="文明用语发图，可别吓跑了美(帅)女(哥)! O(∩_∩)O"
+        android:textColor="@color/chat_prompt_title_color"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/titleTextView"
+        android:padding="10dp"
+        android:lineSpacingExtra="5dp"/>
+    <TextView
+        android:id="@+id/OkButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:text="确定"
+        android:padding="8dp"
+        android:clickable="true"
+        android:gravity="center"
+        android:layout_below="@+id/contentTextView"
+        android:background="@drawable/chat_prompt_btn_bg_style"/>
+</RelativeLayout>

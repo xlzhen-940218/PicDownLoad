@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ダウンロードのダウンロード器</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">設置</string>
+    <string name="communicate">社交</string>
+    <string name="shareme">私は友達にあげて</string>
+    <string name="search_pic">画像検索</string>
+    <string name="down_admini">ダウンロードの管理器</string>
+    <string name="app_author">熊龙镇</string>
+    <string name="action_disclaimers" >責する</string>
+    <string name="disclaimers_details">本APPご検討の技術で、どうぞダウンロード後24時間以内に削除するように、商用、トラブルにもこんな私は一切責任を負わない！</string>
+    <string name="prompt_ok">はい、わかりました。</string>
+    <string name="open_many">計画のオープンクロールモードセット</string>
+    <string name="edit_hint">ウェブアドレス入力後にキーボードの検索キーを押して！</string>
+</resources>
